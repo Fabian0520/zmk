@@ -1,0 +1,6 @@
+if SHIELD_BLIMPLE
+
+config ZMK_KEYBOARD_NAME
+	default "Blimple"
+
+endif
